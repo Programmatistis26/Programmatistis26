@@ -1,16 +1,25 @@
-## Hi there 👋
+# Stavros - Web Developer
 
-<!--
-**Programmatistis26/Programmatistis26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional web development and digital solutions for businesses.
 
-Here are some ideas to get you started:
+## Services
+- Custom Website Development
+- E-commerce Solutions
+- SEO Optimization
+- Website Maintenance
+- Technical Support
+- Accessibility Improvements (WCAG)
+- Performance Optimization
+- Business Automation Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- WordPress
+- PHP
+- JavaScript
+- HTML5 / CSS3
+- MySQL
+
+## Website
+https://programmatistis.gr
+## Location
+Patras, Greece
